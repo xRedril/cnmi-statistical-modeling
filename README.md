@@ -5,8 +5,8 @@ Python Version: 3.10
 to install external libraries run “pip install libraryname” within the console of the project directory
 
 # External Libraries Used:
-Numpy
-Pandas
+Numpy,
+Pandas,
 matplotlib.pyplot
 
 # Equation File:
