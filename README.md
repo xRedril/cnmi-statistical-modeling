@@ -1,17 +1,18 @@
 # cnmi-statistical-modeling
 Python Version: 3.10
 
-Note: to install external libraries run “pip install libraryname” within the console of the project directory
+# Note: 
+to install external libraries run “pip install libraryname” within the console of the project directory
 
-External Libraries Used:
+# External Libraries Used:
 Numpy
 Pandas
 matplotlib.pyplot
 
-Equation File:
+# Equation File:
 Quagev.py
 
-Successfully Converted Files:
+# Successfully Converted Files:
 Compare_GEVQuantiles_Lmom_NCMs
 ParamGEV_NCM_OneMom
 Compare_GEVQuantiles_One_Three_NCMs
